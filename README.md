@@ -1,7 +1,7 @@
 # AI Future Directions Assignment
 
 ## Overview
-This repository contains the complete deliverables for the AI Future Directions assignment, covering theoretical analysis, practical implementation, a futuristic AI proposal, and a quantum simulation bonus. The work is organized into clearly structured Markdown files and executable code for easy review and reproducibility.
+In this repository are complete deliverables for the AI Future Directions assignment, covering fields including theoretical analysis, practical implementation, a futuristic AI proposal, and a quantum simulation bonus. The work is organized into clearly structured Markdown files and executable code for easy review and reproducibility.
 
 ## File Structure
 - `Theoretical_Analysis.md` — Academic answers to theoretical questions and a smart city case study critique (Chunk 1)
